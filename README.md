@@ -12,3 +12,8 @@ Then to install all packages follow the following command:
 > <b>./file.run<b>
   
 Then to play music from your directory, you need to specify the path of your music folder in the variable <b>music_dir<b> in line 13 of Sansa_VoiceAutomation.py
+
+
+Future Enhancements:
+
+Speak "Hey Sansa!" to activate Sansa_VoiceAutomation
