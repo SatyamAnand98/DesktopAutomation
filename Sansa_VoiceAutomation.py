@@ -11,7 +11,7 @@ from io import BytesIO
 import random
 
 
-chromedriver = '/home/satyam/Desktop/chromedriver' 
+chromedriver = './chromedriver' 
 
 dir = os.getcwd()
 language = 'en'
