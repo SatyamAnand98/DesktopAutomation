@@ -4,7 +4,7 @@ To work with Sansa Voice Automation for your Desktop first install requirement.t
 
 to install python requirements from requirement.txt, use the command
 
-> <b>pip install -r requirements.txt<b>
+> <b>pip install -r requirement.txt<b>
   
 Then to install all packages follow the following command:
 
